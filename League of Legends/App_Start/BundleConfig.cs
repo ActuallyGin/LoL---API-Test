@@ -25,7 +25,7 @@ namespace League_of_Legends
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/font-awesome.min.css",
+                      "~/Content/fontawesome-all.min.css",
                       "~/Content/site.css"));
         }
     }
